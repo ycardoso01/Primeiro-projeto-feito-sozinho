@@ -1,0 +1,253 @@
+*{
+    padding: 0;
+    margin: 0;]
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Inter', sans-serif;    
+}
+
+.container-logo {
+    display: flex;
+    align-items: center;
+    margin: 1em 1em;
+}
+
+.logo-texto {
+    margin-left: 20px;
+    color: black;
+}
+
+.menu li {
+    display: inline-block;
+    margin: 1em 1em;
+}
+
+.menu li a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #667085;
+}
+
+
+.login li {
+    display: inline-block;
+    margin: 1em 0.2em;
+}
+
+.login li a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #667085;
+}
+
+.botao-cadastrar {
+    background-color: #8E2424;
+    border-radius: 5px ;
+    padding: 10px;
+    color: white;
+}
+
+.corpo-do-projeto {
+   font-family: 'Inter', sans-serif;
+   text-align: center;
+   margin: 5em 17em;
+}
+
+.sobrenos {
+    color: #8E2424;
+    font-size: 16px;
+    padding: 0.5em;
+}
+
+.pergunta {
+    font-size: 48px;
+    padding: 0.8em;
+}
+
+.paragrafo {
+    font-size: 20px;
+    color: #667085;    
+}
+
+.colunas {
+    display: flex;
+    gap: 20px;
+    padding: 0 50px;
+    font-family: 'Inter', sans-serif;
+}
+
+.numero {
+    color: #8E2424;
+    font-size: 60px;
+}
+
+.sub-titulo {
+    font-size: 18px;
+}
+
+.frase{
+    font-size: 16px;
+    color: #667085;    
+    
+}
+
+.corpo-do-projeto2 {
+font-family: 'Inter', sans-serif;
+      text-align: center;
+   margin: 5em 17em;
+}
+
+.vagas {
+    color: #8E2424;
+    font-size: 14px;
+    padding: 0.5em;
+}
+
+.procura {
+     font-size: 36px;
+    padding: 0.8em;
+}
+
+.equipe {
+     font-size: 20px;
+    color: #667085;  
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.design{
+    margin: 5em 5em 5em 5em;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+   
+}
+ h1 {
+    margin: 1em;
+ }
+.product{
+    
+    font-size: 18px;
+}
+
+.salario {
+    margin: 2em 0 0 0;
+    display: flex;
+    gap: 2em;
+    list-style-type: none;
+    font-size: 16px;
+    color: #667085;
+}
+
+.borda {
+    border: #EAECF0 2px solid;
+    border-radius: 1em;
+    margin: 25px;
+    padding: 20px;
+}
+
+.borda2 {
+    border: #EAECF0 2px solid;
+    border-radius: 1em;
+    margin: 25px;
+    padding: 20px;
+}
+
+.desenvolvimento {
+    margin: 5em 5em 5em 5em;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+
+.borda3 {
+     border: #EAECF0 2px solid;
+    border-radius: 1em;
+    margin: 25px;
+    padding: 20px;
+}
+
+.card {
+    font-family: 'Inter', sans-serif;
+      text-align: center;
+   background-color: #C3191908;
+   margin: 5em;
+   padding: 2em;
+  
+}
+
+.optimus{
+    font-size: 36px;
+}
+
+.colaboradores{
+    font-size: 14px;
+    color: #8E2424;
+}
+
+.lista {
+     list-style-type: none;
+     font-size: 16px;
+     padding: 1em;
+}
+
+
+.desenvolvedora{
+    color: #667085;
+}
+
+.rodape{
+   font-family: 'Inter', sans-serif;
+      text-align: center;
+   background-color: #C3191908;
+   padding: 2em;
+}
+
+.rodapeprincipal{
+    font-size: 36px;
+    
+}
+
+.rodapesecundario{
+    font-size: 20px;
+    color: #667085;
+    padding: 1em;
+    
+}
+
+.email {
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.botaofinal{
+    color: white;
+    background-color: #8E2424;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.final{
+    font-size: 16px;
+    color: #98A2B3;
+    padding: 1em;
+}
+
+
+
+
